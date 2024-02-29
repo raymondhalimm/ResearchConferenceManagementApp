@@ -1,0 +1,129 @@
+/*for author color scheme*/
+.mid{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-height: 75%;
+    overflow: auto;
+}
+
+.homepageButton{
+    width:200px;
+    height:40px;
+    border: none;
+    background-color: rgba(254, 237, 101);
+    color: #373F51;
+    float: right;
+    margin-right: 50px;
+}
+
+.homepageButton:hover{
+    background-color: rgba(207, 205, 69);
+}
+
+
+.homepage_buttons{
+    text-align:center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    background-color: rgba(254, 252, 224);
+}
+
+.logout_button{
+    text-align:center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+
+.create_account_page{
+    text-align:center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.create_account_page_mid{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.change_password_page{
+    text-align:center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 200px;
+    padding-left: 200px;
+    background-color: rgba(254, 252, 224);
+}
+
+.change_password_page{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text_box{
+    width:400px;
+    height:30px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.dropdown{
+    width:400px;
+    height:30px;
+    text-align: center;
+}
+
+.alert_msg{
+    text-align:center;
+    color: red;
+    font-size: 20px;
+}
+
+.box{
+    padding: 2px;
+    border-radius: 5px;
+    border: 2px solid #273A66;
+    background-color: #9CB2E6;
+}
+
+.button{
+    width:200px;
+    height:40px;
+    border: none;
+    background-color: rgba(254, 237, 101);
+    color: #373F51;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button:hover{
+    background-color: rgba(207, 205, 69);
+}
+
+.field{
+    padding: 2px;
+    border-radius: 5px;
+    border: 2px solid #273A66;
+}
+
+td{
+    padding: 2px;
+}
+
+form{
+    margin-bottom: 0;
+}
